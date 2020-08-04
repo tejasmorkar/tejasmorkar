@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
+- 👦🏼 I'm Tejas Morkar
 - 🔭 I’m currently working on TensorFlow 2.x
 - 🌱 I’m currently learning RNNs and Time Series
 - 👯 I’m looking to collaborate on Machine Learning Projects
