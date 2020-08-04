@@ -11,7 +11,7 @@
 
 ## Connect with me
 
-[![Website](./assets/web.png | width=28)](https://tejasmorkar.tech)
+[<img width=28 height=28 src='./assets/web.png'>](https://tejasmorkar.tech)
 [Email](mailto:tejasmorkar@gmail.com)
 [LinkedIn](https://linkedin.com/in/tejasmorkar)
 [Medium](https://medium.com/@tejasmorkar)
