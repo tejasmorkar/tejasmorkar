@@ -9,16 +9,12 @@
 - 🥅 2020 Goals: Dive into Research Domain for ML
 - ⚡ Fun facts: Barça Fan, Learning Japanese 日本語
 
-[![Tejas' github stats](https://github-readme-stats.vercel.app/api?username=tejasmorkar&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Connect with me
 
-[Website](https://tejasmorkar.tech)
-
+[![./assets/web.png]](https://tejasmorkar.tech)
 [Email](mailto:tejasmorkar@gmail.com)
-
 [LinkedIn](https://linkedin.com/in/tejasmorkar)
-
 [Medium](https://medium.com/@tejasmorkar)
-
 [Twitter](https://twitter.com/TejasMorkar)
+
+[![Tejas' github stats](https://github-readme-stats.vercel.app/api?username=tejasmorkar&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
