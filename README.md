@@ -14,7 +14,11 @@
 ## Connect with me
 
 [Website](https://tejasmorkar.tech)
+
 [Email](mailto:tejasmorkar@gmail.com)
+
 [LinkedIn](https://linkedin.com/in/tejasmorkar)
+
 [Medium](https://medium.com/@tejasmorkar)
+
 [Twitter](https://twitter.com/TejasMorkar)
