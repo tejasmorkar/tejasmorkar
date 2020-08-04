@@ -11,10 +11,14 @@
 
 ## Connect with me
 
-[<img width=28 height=28 src='./assets/web.png' alt='Website' title='Website'>](https://tejasmorkar.tech)
-[<img width=28 height=28 src='./assets/gmail.png' alt='Email' title='Email'>](mailto:tejasmorkar@gmail.com)
-[<img width=28 height=28 src='./assets/linkedin.png' alt='LinkedIn' title='LinkedIn'>](https://linkedin.com/in/tejasmorkar)
-[<img width=28 height=28 src='./assets/medium.png' alt='Medium' title='Medium'>](https://medium.com/@tejasmorkar)
-[<img width=28 height=28 src='./assets/twitter.png' alt='Twitter' title='Twitter'>](https://twitter.com/TejasMorkar)
+[<img width=28 height=28 src='https://github.com/tejasmorkar/tejasmorkar/blob/master/assets/web.png' alt='Website' title='Website'> tejasmorkar.tech](https://tejasmorkar.tech)
+
+[<img width=28 height=28 src='https://github.com/tejasmorkar/tejasmorkar/blob/master/assets/gmail.png' alt='Email' title='Email'>](mailto:tejasmorkar@gmail.com)
+
+[<img width=28 height=28 src='https://github.com/tejasmorkar/tejasmorkar/blob/master/assets/linkedin.png' alt='LinkedIn' title='LinkedIn'>](https://linkedin.com/in/tejasmorkar)
+
+[<img width=28 height=28 src='https://github.com/tejasmorkar/tejasmorkar/blob/master/assets/medium.png' alt='Medium' title='Medium'>](https://medium.com/@tejasmorkar)
+
+[<img width=28 height=28 src='https://github.com/tejasmorkar/tejasmorkar/blob/master/assets/twitter.png' alt='Twitter' title='Twitter'>](https://twitter.com/TejasMorkar)
 
 [![Tejas' github stats](https://github-readme-stats.vercel.app/api?username=tejasmorkar&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
