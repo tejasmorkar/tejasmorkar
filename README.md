@@ -17,7 +17,7 @@
 
 [<img width=28 height=28 src='https://github.com/tejasmorkar/tejasmorkar/blob/master/assets/gmail.png' alt='Email' title='Email'> tejasmorkar@gmail.com](mailto:tejasmorkar@gmail.com)
 
-[<img width=28 height=28 src='https://github.com/tejasmorkar/tejasmorkar/blob/master/assets/linkedin.png' alt='LinkedIn' title='LinkedIn'> /tejasmorkar](https://linkedin.com/in/tejasmorkar)
+[<img width=28 height=28 src='https://github.com/tejasmorkar/tejasmorkar/blob/master/assets/linkedin.png' alt='LinkedIn' title='LinkedIn'> tejasmorkar](https://linkedin.com/in/tejasmorkar)
 
 [<img width=28 height=28 src='https://github.com/tejasmorkar/tejasmorkar/blob/master/assets/medium.png' alt='Medium' title='Medium'> @tejasmorkar](https://medium.com/@tejasmorkar)
 
