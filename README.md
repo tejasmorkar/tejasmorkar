@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning RNNs and Time Series
 - 👯 I’m looking to collaborate on Machine Learning Projects
 - 🥅 2020 Goals: Dive into Research Domain for ML
-- ⚡ Fun facts: Barça Fan, Learning Japanese 日本語
+- ⚡ Fun facts: Messi Fan, Learning Japanese 日本語
 
 [![Tejas' github stats](https://github-readme-stats.vercel.app/api?username=tejasmorkar&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
