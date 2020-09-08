@@ -21,3 +21,6 @@
 [<img width=28 height=28 src='https://github.com/tejasmorkar/tejasmorkar/blob/master/assets/medium.png' alt='Medium' title='Medium'> @tejasmorkar](https://medium.com/@tejasmorkar)
 
 [<img width=28 height=28 src='https://github.com/tejasmorkar/tejasmorkar/blob/master/assets/twitter.png' alt='Twitter' title='Twitter'> @TejasMorkar](https://twitter.com/TejasMorkar)
+
+[![Tejas Morkar's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/tejasmorkar)
+
