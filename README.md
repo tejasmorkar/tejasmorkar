@@ -22,5 +22,5 @@
 
 [<img width=28 height=28 src='https://github.com/tejasmorkar/tejasmorkar/blob/master/assets/twitter.png' alt='Twitter' title='Twitter'> @TejasMorkar](https://twitter.com/TejasMorkar)
 
-[![Tejas Morkar's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/tejasmorkar)
+[<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Tejas Morkar's DEV Profile" height="30" width="30"> tejasmorkar](https://dev.to/tejasmorkar)
 
