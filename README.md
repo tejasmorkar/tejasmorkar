@@ -2,6 +2,8 @@
 
 ## 👦🏼 I'm Tejas Morkar - a Student, Programmer, Machine Learning Enthusiast
 
+- 👨🏼‍💻 Co-Founder of [DevsCollab](https://github.com/devscollab)
+- 👨🏼‍💼 Management Head at [DSC PCCoE](https://github.com/dscpccoe)
 - 🔭 I’m currently working on TensorFlow 2.x
 - 🌱 I’m currently learning RNNs and Time Series
 - 👯 I’m looking to collaborate on Machine Learning Projects
@@ -9,6 +11,14 @@
 - ⚡ Fun facts: Messi Fan, Learning Japanese 日本語
 
 [![Tejas' github stats](https://github-readme-stats.vercel.app/api?username=tejasmorkar&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## My Tech Articles
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tejasmorkar/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@tejasmorkar/0" alt="Recent Article 0"></a>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tejasmorkar/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@tejasmorkar/0" alt="Recent Article 1"></a>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tejasmorkar/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@tejasmorkar/0" alt="Recent Article 2"></a>
 
 ## Connect with me
 
