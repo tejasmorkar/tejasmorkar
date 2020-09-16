@@ -4,7 +4,7 @@
 
 - 👨🏼‍💻 Co-Founder of [DevsCollab](https://github.com/devscollab)
 - 👨🏼‍💼 Management Head at [DSC PCCoE](https://github.com/dscpccoe)
-- 🔭 I’m currently working on TensorFlow 2.x
+- 🔭 I’m currently working on ML Research Internship at CDAC... Related to Fake News Detection
 - 🌱 I’m currently learning RNNs and Time Series
 - 👯 I’m looking to collaborate on Machine Learning Projects
 - 🥅 2020 Goals: Dive into Research Domain for ML
