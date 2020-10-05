@@ -7,6 +7,7 @@
 - 🔭 I’m currently working on ML Research Internship at CDAC... Related to Fake News Detection
 - 🌱 I’m currently learning RNNs and Time Series
 - 👯 I’m looking to collaborate on Machine Learning Projects
+- 🧑🏼 Preferred pronouns: He, Him, His
 - 🥅 2020 Goals: Dive into Research Domain for ML
 - ⚡ Fun facts: Messi Fan, Learning Japanese 日本語
 
