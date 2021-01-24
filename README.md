@@ -2,6 +2,7 @@
 
 ## 👦🏼 I'm Tejas Morkar - a Student, Programmer, Machine Learning Enthusiast
 
+- 👨🏼‍🎓 Microsoft Learn Student Ambassador (Alpha)
 - 👨🏼‍💼 Management Head at [DSC PCCoE](https://github.com/dscpccoe)
 - 👨🏼‍💻 Co-Founder of [DevsCollab](https://github.com/devscollab)
 - 🔭 I’m currently working on ML Research Internship at CDAC... Related to Fake News Detection
