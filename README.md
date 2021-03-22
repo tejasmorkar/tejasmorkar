@@ -12,7 +12,7 @@
 - 🥅 2020 Goals: Dive into Research Domain for ML
 - ⚡ Fun facts: Messi Fan, Learning Japanese 日本語
 
-<details open>
+<details>
 <summary>🤝 <b>GitHub Stats</b></summary>
 
 <p>
