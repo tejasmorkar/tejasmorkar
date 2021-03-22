@@ -12,14 +12,14 @@
 - 🥅 2020 Goals: Dive into Research Domain for ML
 - ⚡ Fun facts: Messi Fan, Learning Japanese 日本語
 
-<stats open>
+<details open>
 <summary>🤝 <b>GitHub Stats</b></summary>
 
 <p>
  ![Tejas' github stats](https://github-readme-stats.vercel.app/api?username=tejasmorkar&show_icons=true&theme=dark)
 </p>
 
-</stats>
+</details>
 
 ## My Tech Articles
 
