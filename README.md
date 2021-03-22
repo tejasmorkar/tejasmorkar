@@ -5,7 +5,7 @@
 - 👨🏼‍🎓 Microsoft Learn Student Ambassador (Alpha)
 - 👨🏼‍💼 Management Head at [DSC PCCoE](https://github.com/dscpccoe)
 - 👨🏼‍💻 Co-Founder of [DevsCollab](https://github.com/devscollab)
-- 🔭 I’m currently working on ML Research Internship at CDAC... Related to Fake News Detection
+- 🔭 I’m currently working on Autonomous Driving... focused on Sensor Fusion
 - 🌱 I’m currently learning RNNs and Time Series
 - 👯 I’m looking to collaborate on Machine Learning Projects
 - 🧑🏼 Preferred pronouns: He, Him, His
