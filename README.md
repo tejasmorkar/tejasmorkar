@@ -12,22 +12,6 @@
 - 🥅 2020 Goals: Dive into Research Domain for ML
 - ⚡ Fun facts: Messi Fan, Learning Japanese 日本語
 
-<details open>
- <summary><b>Connect with me</b></summary>
-
- [<img width=28 height=28 src='https://github.com/tejasmorkar/tejasmorkar/blob/master/assets/web.png' alt='Website' title='Website'> tejasmorkar.tech](https://tejasmorkar.tech)
-
- [<img width=28 height=28 src='https://github.com/tejasmorkar/tejasmorkar/blob/master/assets/gmail.png' alt='Email' title='Email'> tejasmorkar@gmail.com](mailto:tejasmorkar@gmail.com)
-
- [<img width=28 height=28 src='https://github.com/tejasmorkar/tejasmorkar/blob/master/assets/linkedin.png' alt='LinkedIn' title='LinkedIn'> tejasmorkar](https://linkedin.com/in/tejasmorkar)
-
- [<img width=28 height=28 src='https://github.com/tejasmorkar/tejasmorkar/blob/master/assets/medium.png' alt='Medium' title='Medium'> @tejasmorkar](https://medium.com/@tejasmorkar)
-
- [<img width=28 height=28 src='https://github.com/tejasmorkar/tejasmorkar/blob/master/assets/twitter.png' alt='Twitter' title='Twitter'> @TejasMorkar](https://twitter.com/TejasMorkar)
-
- [<img src="https://github.com/tejasmorkar/tejasmorkar/blob/master/assets/dev.png" alt="Tejas Morkar's DEV Profile" height="28" width="28"> tejasmorkar](https://dev.to/tejasmorkar)
-</details>
-
 <details>
  <summary><b>GitHub Stats</b></summary>
 
@@ -44,4 +28,14 @@
 
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tejasmorkar/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@tejasmorkar/2" alt="Recent Article 2"></a>
  
+</details>
+
+<details open>
+ <summary><b>Connect with me</b></summary>
+
+ [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejasmorkar@gmail.com)
+ [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejasmorkar)
+ [![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tejasmorkar)
+ [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TejasMorkar)
+ [![image](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/tejasmorkar)
 </details>
