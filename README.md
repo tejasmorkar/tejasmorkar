@@ -16,7 +16,7 @@
 <summary>🤝 <b>GitHub Stats</b></summary>
 
 <p>
- [![Tejas' github stats](https://github-readme-stats.vercel.app/api?username=tejasmorkar&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+ ![Tejas' github stats](https://github-readme-stats.vercel.app/api?username=tejasmorkar&show_icons=true&theme=dark)
 </p>
 
 </stats>
