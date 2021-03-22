@@ -12,6 +12,22 @@
 - 🥅 2020 Goals: Dive into Research Domain for ML
 - ⚡ Fun facts: Messi Fan, Learning Japanese 日本語
 
+<details open>
+ <summary><b>Connect with me</b></summary>
+
+ [<img width=28 height=28 src='https://github.com/tejasmorkar/tejasmorkar/blob/master/assets/web.png' alt='Website' title='Website'> tejasmorkar.tech](https://tejasmorkar.tech)
+
+ [<img width=28 height=28 src='https://github.com/tejasmorkar/tejasmorkar/blob/master/assets/gmail.png' alt='Email' title='Email'> tejasmorkar@gmail.com](mailto:tejasmorkar@gmail.com)
+
+ [<img width=28 height=28 src='https://github.com/tejasmorkar/tejasmorkar/blob/master/assets/linkedin.png' alt='LinkedIn' title='LinkedIn'> tejasmorkar](https://linkedin.com/in/tejasmorkar)
+
+ [<img width=28 height=28 src='https://github.com/tejasmorkar/tejasmorkar/blob/master/assets/medium.png' alt='Medium' title='Medium'> @tejasmorkar](https://medium.com/@tejasmorkar)
+
+ [<img width=28 height=28 src='https://github.com/tejasmorkar/tejasmorkar/blob/master/assets/twitter.png' alt='Twitter' title='Twitter'> @TejasMorkar](https://twitter.com/TejasMorkar)
+
+ [<img src="https://github.com/tejasmorkar/tejasmorkar/blob/master/assets/dev.png" alt="Tejas Morkar's DEV Profile" height="28" width="28"> tejasmorkar](https://dev.to/tejasmorkar)
+</details>
+
 <details>
  <summary><b>GitHub Stats</b></summary>
 
@@ -28,20 +44,4 @@
 
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tejasmorkar/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@tejasmorkar/2" alt="Recent Article 2"></a>
  
-</details>
-
-<details>
- <summary><b>Connect with me</b></summary>
-
- [<img width=28 height=28 src='https://github.com/tejasmorkar/tejasmorkar/blob/master/assets/web.png' alt='Website' title='Website'> tejasmorkar.tech](https://tejasmorkar.tech)
-
- [<img width=28 height=28 src='https://github.com/tejasmorkar/tejasmorkar/blob/master/assets/gmail.png' alt='Email' title='Email'> tejasmorkar@gmail.com](mailto:tejasmorkar@gmail.com)
-
- [<img width=28 height=28 src='https://github.com/tejasmorkar/tejasmorkar/blob/master/assets/linkedin.png' alt='LinkedIn' title='LinkedIn'> tejasmorkar](https://linkedin.com/in/tejasmorkar)
-
- [<img width=28 height=28 src='https://github.com/tejasmorkar/tejasmorkar/blob/master/assets/medium.png' alt='Medium' title='Medium'> @tejasmorkar](https://medium.com/@tejasmorkar)
-
- [<img width=28 height=28 src='https://github.com/tejasmorkar/tejasmorkar/blob/master/assets/twitter.png' alt='Twitter' title='Twitter'> @TejasMorkar](https://twitter.com/TejasMorkar)
-
- [<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Tejas Morkar's DEV Profile" height="30" width="30"> tejasmorkar](https://dev.to/tejasmorkar)
 </details>
