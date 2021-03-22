@@ -5,11 +5,11 @@
 - 👨🏼‍🎓 Microsoft Learn Student Ambassador (Alpha)
 - 👨🏼‍💼 Management Head at [DSC PCCoE](https://github.com/dscpccoe)
 - 👨🏼‍💻 Co-Founder of [DevsCollab](https://github.com/devscollab)
-- 🔭 I’m currently working on Autonomous Driving... focused on Sensor Fusion
-- 🌱 I’m currently learning RNNs and Time Series
+- ✍ I’m currently writing for XRDS Magazine as a Department Editor
+- 🚗 I’m currently working on Autonomous Driving... focused on Sensor Fusion
 - 👯 I’m looking to collaborate on Machine Learning Projects
 - 🧑🏼 Preferred pronouns: He, Him, His
-- 🥅 2020 Goals: Dive into Research Domain for ML
+- 🥅 2021 Goals: Publish a quality work in research domain
 - ⚡ Fun facts: Messi Fan, Learning Japanese 日本語
 
 <details>
