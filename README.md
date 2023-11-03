@@ -9,8 +9,8 @@
 - 🚗 I’m currently working on Autonomous Driving... focused on Sensor Fusion
 - 👯 I’m looking to collaborate on Machine Learning Projects
 - 🧑🏼 Preferred pronouns: He, Him, His
-- 🥅 2021 Goals: Publish a quality work in research domain
-- ⚡ Fun facts: Messi Fan, Learning Japanese 日本語
+- 🥅 2023 Goals: Work on customer-facing products with high demand
+- ⚡ Fun facts: Messi Fan, Learning Japanese 日本語, 93🏍️
 
 <details>
  <summary><b>GitHub Stats</b></summary>
