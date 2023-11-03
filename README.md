@@ -2,11 +2,11 @@
 
 ## 👦🏼 I'm Tejas Morkar - a Student, Programmer, Machine Learning Enthusiast
 
-- 👨🏼‍🎓 Microsoft Learn Student Ambassador (Alpha)
-- 👨🏼‍💼 Management Head at [DSC PCCoE](https://github.com/dscpccoe)
+- 👨🏼‍🎓 Ex-Microsoft Learn Student Ambassador (Alpha)
+- 👨🏼‍💼 Ex-Management Head at [DSC PCCoE](https://github.com/dscpccoe)
 - 👨🏼‍💻 Co-Founder of [DevsCollab](https://github.com/devscollab)
-- ✍ I’m currently writing for XRDS Magazine as a Department Editor
-- 🚗 I’m currently working on Autonomous Driving... focused on Sensor Fusion
+- ✍ Ex-ACM XRDS International Magazine Department Editor
+- 🚗 I’m currently working on Spring framework and Angular projects
 - 👯 I’m looking to collaborate on Machine Learning Projects
 - 🧑🏼 Preferred pronouns: He, Him, His
 - 🥅 2023 Goals: Work on customer-facing products with high demand
