@@ -6,10 +6,10 @@
 - 👨🏼‍💼 Ex-Management Head at [DSC PCCoE](https://github.com/dscpccoe)
 - 👨🏼‍💻 Co-Founder of [DevsCollab](https://github.com/devscollab)
 - ✍ Ex-ACM XRDS International Magazine Department Editor
-- 🚗 I’m currently working on Spring framework and Angular projects
+- 🚗 I’m currently working on LLMs, RAG, Agentic Framework
 - 👯 I’m looking to collaborate on Machine Learning Projects
 - 🧑🏼 Preferred pronouns: He, Him, His
-- 🥅 2023 Goals: Work on customer-facing products with high demand
+- 🥅 2025 Goals: Work on opensource projects
 - ⚡ Fun facts: Messi Fan, Learning Japanese 日本語, 93🏍️
 
 <details>
