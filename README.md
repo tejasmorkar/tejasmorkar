@@ -1,15 +1,11 @@
 ### Hi there 👋
 
-## 👦🏼 I'm Tejas Morkar - a Student, Programmer, Machine Learning Enthusiast
+## 👦🏼 I'm Tejas Morkar - Software Engineer II (MTS II) @ Cohesity
 
-- 👨🏼‍🎓 Ex-Microsoft Learn Student Ambassador (Alpha)
-- 👨🏼‍💼 Ex-Management Head at [DSC PCCoE](https://github.com/dscpccoe)
-- 👨🏼‍💻 Co-Founder of [DevsCollab](https://github.com/devscollab)
-- ✍ Ex-ACM XRDS International Magazine Department Editor
 - 🚗 I’m currently working on LLMs, RAG, Agentic Framework
 - 👯 I’m looking to collaborate on Machine Learning Projects
 - 🧑🏼 Preferred pronouns: He, Him, His
-- 🥅 2025 Goals: Work on opensource projects
+- 🥅 2025 Goals: Work on LLM-based R&D projects
 - ⚡ Fun facts: Messi Fan, Learning Japanese 日本語, 93🏍️
 
 <details>
